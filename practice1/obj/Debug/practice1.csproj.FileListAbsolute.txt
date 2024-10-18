@@ -1,0 +1,52 @@
+D:\cs_projects\practice1\practice1\bin\Debug\practice1.exe.config
+D:\cs_projects\practice1\practice1\bin\Debug\practice1.exe
+D:\cs_projects\practice1\practice1\bin\Debug\practice1.pdb
+D:\cs_projects\practice1\practice1\obj\Debug\practice1.csproj.AssemblyReference.cache
+D:\cs_projects\practice1\practice1\obj\Debug\practice1.csproj.CoreCompileInputs.cache
+D:\cs_projects\practice1\practice1\obj\Debug\practice1.exe
+D:\cs_projects\practice1\practice1\obj\Debug\practice1.pdb
+D:\cs_projects\practice1\practice1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\cs_projects\practice1\practice1\bin\Debug\System.Buffers.dll
+D:\cs_projects\practice1\practice1\bin\Debug\System.Memory.dll
+D:\cs_projects\practice1\practice1\bin\Debug\System.Numerics.Vectors.dll
+D:\cs_projects\practice1\practice1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\cs_projects\practice1\practice1\bin\Debug\System.Text.Encodings.Web.dll
+D:\cs_projects\practice1\practice1\bin\Debug\System.Text.Json.dll
+D:\cs_projects\practice1\practice1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\cs_projects\practice1\practice1\bin\Debug\System.ValueTuple.dll
+D:\cs_projects\practice1\practice1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\cs_projects\practice1\practice1\bin\Debug\System.Buffers.xml
+D:\cs_projects\practice1\practice1\bin\Debug\System.Memory.xml
+D:\cs_projects\practice1\practice1\bin\Debug\System.Numerics.Vectors.xml
+D:\cs_projects\practice1\practice1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\cs_projects\practice1\practice1\bin\Debug\System.Text.Encodings.Web.xml
+D:\cs_projects\practice1\practice1\bin\Debug\System.Text.Json.xml
+D:\cs_projects\practice1\practice1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\cs_projects\practice1\practice1\bin\Debug\System.ValueTuple.xml
+D:\cs_projects\practice1\practice1\obj\Debug\practice1.csproj.Up2Date
+C:\Users\toha3\OneDrive\Рабочий стол\practice1\practice1\bin\Debug\practice1.exe.config
+C:\Users\toha3\OneDrive\Рабочий стол\practice1\practice1\bin\Debug\practice1.exe
+C:\Users\toha3\OneDrive\Рабочий стол\practice1\practice1\bin\Debug\practice1.pdb
+C:\Users\toha3\OneDrive\Рабочий стол\practice1\practice1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\toha3\OneDrive\Рабочий стол\practice1\practice1\bin\Debug\System.Buffers.dll
+C:\Users\toha3\OneDrive\Рабочий стол\practice1\practice1\bin\Debug\System.Memory.dll
+C:\Users\toha3\OneDrive\Рабочий стол\practice1\practice1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\toha3\OneDrive\Рабочий стол\practice1\practice1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\toha3\OneDrive\Рабочий стол\practice1\practice1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\toha3\OneDrive\Рабочий стол\practice1\practice1\bin\Debug\System.Text.Json.dll
+C:\Users\toha3\OneDrive\Рабочий стол\practice1\practice1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\toha3\OneDrive\Рабочий стол\practice1\practice1\bin\Debug\System.ValueTuple.dll
+C:\Users\toha3\OneDrive\Рабочий стол\practice1\practice1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\toha3\OneDrive\Рабочий стол\practice1\practice1\bin\Debug\System.Buffers.xml
+C:\Users\toha3\OneDrive\Рабочий стол\practice1\practice1\bin\Debug\System.Memory.xml
+C:\Users\toha3\OneDrive\Рабочий стол\practice1\practice1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\toha3\OneDrive\Рабочий стол\practice1\practice1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\toha3\OneDrive\Рабочий стол\practice1\practice1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\toha3\OneDrive\Рабочий стол\practice1\practice1\bin\Debug\System.Text.Json.xml
+C:\Users\toha3\OneDrive\Рабочий стол\practice1\practice1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\toha3\OneDrive\Рабочий стол\practice1\practice1\bin\Debug\System.ValueTuple.xml
+C:\Users\toha3\OneDrive\Рабочий стол\practice1\practice1\obj\Debug\practice1.csproj.AssemblyReference.cache
+C:\Users\toha3\OneDrive\Рабочий стол\practice1\practice1\obj\Debug\practice1.csproj.CoreCompileInputs.cache
+C:\Users\toha3\OneDrive\Рабочий стол\practice1\practice1\obj\Debug\practice1.csproj.CopyComplete
+C:\Users\toha3\OneDrive\Рабочий стол\practice1\practice1\obj\Debug\practice1.exe
+C:\Users\toha3\OneDrive\Рабочий стол\practice1\practice1\obj\Debug\practice1.pdb
